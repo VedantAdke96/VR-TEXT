@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VR-TEXT/static/css/main.3d7dda05.css",
+    "main.js": "/VR-TEXT/static/js/main.e304fb98.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VR-TEXT/static/js/787.28cb0dcd.chunk.js",
+    "static/media/light-mode.png": "/VR-TEXT/static/media/light-mode.dce778ec0e8bd498f79d.png",
+    "static/media/night-mode.png": "/VR-TEXT/static/media/night-mode.ce041fecf2d260123f97.png",
+    "index.html": "/VR-TEXT/index.html",
+    "main.3d7dda05.css.map": "/VR-TEXT/static/css/main.3d7dda05.css.map",
+    "main.e304fb98.js.map": "/VR-TEXT/static/js/main.e304fb98.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VR-TEXT/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7dda05.css",
+    "static/js/main.e304fb98.js"
+  ]
+}
